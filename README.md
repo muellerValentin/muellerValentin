@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muellerValentin
-- 👀 I’m interested in web development and online media.
+- 👀 I’m interested in all sorts of tech, (drone) photography, web development and online media.
 - 🌱 I´m a online media student at the DHBW Mosbach.
 
 <!---
